@@ -10,6 +10,8 @@ This Python program uses spectrograms of songs to match them in the same way as 
 
 ### Dependencies
 
+* Jupyter Notebook
+* MP3 recordings
 * There are several Python libraries that must be installed. Refer to the "Import" section at the beginning.
 
 ### Installing
